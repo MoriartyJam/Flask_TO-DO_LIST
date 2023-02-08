@@ -2,7 +2,7 @@
 
 1.Project's Title
 
-A program for keeping track of the to-do list and its execution. I
+A program for keeping track of the to-do list and its execution. 
 
 2.Project Description
 
